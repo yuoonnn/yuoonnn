@@ -109,9 +109,9 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
 <div align="center">
   <img src="https://img.shields.io/badge/-Web3-000000?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Trading-0EA5E9?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Networking-22C55E?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-8B5CF6?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Trading-000000?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
 ---
