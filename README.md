@@ -7,15 +7,13 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-22C55E?style=flat-square" alt="Status" />
 </div>
 
----
 
 ## 🚀 About Me
 
 I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** with a passion for networking, system administration, and building real-world IT solutions. When I'm not coding, you'll find me exploring Web3, blockchain, and creative projects.
 
-- 🌐 My <a href="https://github.com/yuoonnn" target="_blank"> Personal Website
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+- 🌐 My <a href="https://chrisou.vercel.app/" target="_blank"> Personal Website</a>
+- 📨 Contact me at <a href="mailto:asianong24@gmail.com"> asianong24@gmail.com </a>
 
 ### 🎯 What I'm Currently Up To
 - 🔧 **Seeking Internship Opportunities** in networking and infrastructure support
@@ -114,23 +112,6 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
   <img src="https://img.shields.io/badge/-Trading-0EA5E9?style=for-the-badge&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/-Networking-22C55E?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cybersecurity-8B5CF6?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
-
----
-
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://github.com/yuoonnn" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/OngUanan/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:asianong24@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ---
