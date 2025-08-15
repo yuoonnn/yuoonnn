@@ -1,7 +1,7 @@
-# Hi there, I'm Christian 👋
+# Hi there, I'm Chriss! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Network+Enthusiast;AI+Innovator;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=100&lines=Network+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -83,16 +83,6 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
 
 ---
 
-### 🎨 [Portfolio Website](https://github.com/yuoonnn/Chriss)
-> Modern, responsive developer portfolio with dynamic project showcase
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Features:** Responsive design, dark/light themes, AOS animations, dynamic content loading
-
----
 
 ## 🏆 Certifications & Achievements
 
@@ -119,8 +109,9 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
 <div align="center">
   <img src="https://img.shields.io/badge/-Web3-000000?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Trading-0EA5E9?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Networking-22C55E?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-8B5CF6?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
 ---
@@ -173,5 +164,5 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Christian Arnold O. Uanan</sub>
+  <sub>© Christian Uanan</sub>
 </div>
