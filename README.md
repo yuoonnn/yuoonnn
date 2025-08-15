@@ -1,7 +1,5 @@
-# Hi there, I'm Chriss! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=100&lines=Network+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=100&lines=Christian+Uanan;Network+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,6 +12,10 @@
 ## 🚀 About Me
 
 I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** with a passion for networking, system administration, and building real-world IT solutions. When I'm not coding, you'll find me exploring Web3, blockchain, and creative projects.
+
+- 🌐 My <a href="https://github.com/yuoonnn" target="_blank"> Personal Website
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 ### 🎯 What I'm Currently Up To
 - 🔧 **Seeking Internship Opportunities** in networking and infrastructure support
@@ -116,14 +118,6 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
 
 ---
 
-## 🎬 Beyond Code
-
-- 🎥 **Cinematography** - Passionate about visual storytelling
-- 📸 **Photography** - Capturing moments and perspectives
-- 🎵 **Creative Projects** - Always exploring new artistic mediums
-- 🌱 **Continuous Learning** - Embracing new technologies and ideas
-
----
 
 ## 🤝 Let's Connect!
 
@@ -138,16 +132,6 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----
-
-## 📈 Current Goals
-
-- [ ] **Complete BSIT Degree** - Graduating soon! 🎓
-- [ ] **Land Networking Internship** - Building real-world experience 🌐
-- [ ] **Master Advanced Networking** - CCNA preparation 📚
-- [ ] **Build More AI Projects** - Expanding ML knowledge 🤖
-- [ ] **Contribute to Open Source** - Giving back to the community ❤️
 
 ---
 
