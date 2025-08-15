@@ -62,7 +62,7 @@ I'm a **4th Year BSIT Student** at **Pampanga State Agricultural University** wi
 
 ## 🎯 Featured Projects
 
-### 🌐 [Networking Calculator](https://github.com/yuoonnn/Networking-Calculator)
+### 🌐 [Networking Calculator](https://yuoonnn.github.io/Networking-Calculator/)
 > Professional IPv4 planning tool with subnetting, VLSM, and network calculations
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
